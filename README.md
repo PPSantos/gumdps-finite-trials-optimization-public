@@ -1,5 +1,7 @@
 # Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning
 
+https://arxiv.org/abs/2505.15782
+
 ## Files overview:
 * `simulate_mcts` contains the code to run the MCTS algorithm for the illustrative GUMDPs.
 * `simulate_mcts_gym` contains the code to run the MCTS algorithm for the Taxi and FrozenLake environments.
